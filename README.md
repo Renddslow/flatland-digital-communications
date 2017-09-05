@@ -7,6 +7,21 @@
 	* [Non-Attenders](#non-attenders)
 	* [Attenders](#attenders)
 	* [Volunteers](#volunteers)
+* [Channels](#channels)
+	* [Web](#web)
+	* [App](#app)
+	* [Social Media](#social-media)
+	* [Email](#email)
+	* [In-Service](#in-service)
+* [Projects](#projects)
+	* [Top Priority](#top-priority)
+	* [Processes](#processes)
+	* [Tools](#tools)
+	* [One Offs](#one-offs)
+* [Documentation](#documentation)
+	* [Guidelines](#guidelines)
+	* [Policies](#policies)
+	* [Press Kits](#press-kits)
 
 ## Introduction
 Lorem ipsum
