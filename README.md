@@ -2,6 +2,12 @@
 
 > Imperfect action is better than no action.
 
+## Table of Contents
+* [Audience](#our-audience)
+	* [Non-Attenders](#non-attenders)
+	* [Attenders](#attenders)
+	* [Volunteers](#volunteers)
+
 ## Introduction
 Lorem ipsum
 
