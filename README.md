@@ -129,7 +129,7 @@ As with any digital project there are about a million opportunities and projects
 
 ### Top Priority
 | # | Project Name | Version | Justification | Timeline |
-| --- | -------------- | --------------- | ---- |
+| --- | -------------- | --------------- | ---- | --- |
 | 1 | flatlandchurch.com | v2 | Our current site, while good has minimal flexibility and scalibility long term. Version 2 will allow us greater flexibility in our page layouts and management long term with a better management tool attached to it. | 🕑  September |
 | 2 | Giving & my.flatland.church | v1 | We want to decrease the amount of friction that it requires to give at Flatland. One of the best ways to do that is to bring Giving to the main flatlandchurch.com site. With that however we will need to launch a piece for people to manage their cards and recurring giving. This will be managed through my.flatland.church/giving. | 🕑  September |
 | 3 | Coaching Portal | v1 | We want coaches to be able to easily manage the people they are coaching. Additionally we want to make the process of onboarding people being coached as frictionless as possible. | 🕑  September |
