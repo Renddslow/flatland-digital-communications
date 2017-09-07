@@ -1,6 +1,6 @@
 # Flatland Church Digital Communications Strategy
 
-> Imperfect action is better than no action.
+> Imperfect action is better than no action at all.
 
 ## Table of Contents
 * [Audience](#our-audience)
@@ -51,7 +51,7 @@ One of the most challenging pieces of digital communication in 2017 and beyond i
 Each channel in our product family should be used intentionally and predicatably to maintain brand identity and voice across each platform.
 
 ### Web
-Web is a three-tiered platform which reached all three of our audiences including staff. As such we want to strategically divide our efforts across web to maintain scope for each audience. 
+Web is a three-tiered platform which reaches all three of our audiences including staff. As such we want to strategically divide our efforts across web to maintain scope for each audience. 
 
 #### Non-Attenders
 Non-Attenders should consistently be routed to flatlandchurch.com as their primary interaction with us on the web channel. All lead magnets and ad landings should be flatlandchurch.com subresources, for instance all lead magnets will look like https://flatlandchurch.com/l/doubt. This creates a consistent expectation for Non-Attenders so that they are always driven toward flatlandchurch.com/visit or flatlandchurch.com/watch.
@@ -71,6 +71,7 @@ A large segment of communication with Attenders will be done through the app, an
 ### Social Media
 Social media is one of the easiest platforms to achieve mass organic reach for no cost coupled with the ability to atain a high ROI on paid posts/advertisements. 
 Social media should be targeted primarily at Non-Attenders and Attenders. Equally as important as reaching the correct audience on Social Media is maintaining a consistent brand identity across the platforms.
+Our goal on social is to stop the scroll.
 
 #### Instagram
 A heavy focus of our content driven digital communication should be done on Instagram. All posts should be either photos, photos with graphics, or motion graphic videos.
@@ -84,14 +85,41 @@ A few examples of people doing it great:
 
 Instagram posts should be aspirational (people enjoying life groups, baptisms, testimonies) or inspirational (worship, bible verses, salvation reports) with informational posts being classified less. The primary justification is that Instagram is a vastly more intimate experience. People engage on a personal level. The goal is that Non-Attenders especially feel that they know us better through their experience scrolling through our feed. 
 Bigger announcements should be weighed before posting, and if well targeted toward Non-Attenders should be Sponsored posts.
+We need to be thinking more about what we can give to our audience and less of what we can get from them.
+Post types: 
+* Sunday morning posts (Twice on Sunday, one before service BTS style, one during service #hype)
+* Quote Posts (Two a week, picture of speaker with quote overtop, verse in the description)
+* Fun Question Posts (Once a week - this should be a photo of someone in our church)
+* Volunteer Spotlight (Once a week - Take a picture every single week and tell the volunteer's story)
+* New Music/Staff Mixtape (Once a week - New songs we'll be singing, or staff member's playlist)
+* Baptism/Testimony (One a series Day after Oasis)
 
 #### Facebook
 Facebook is an amazing platform to engage with large groups of people at a time. As the platform expands, there are opportunities to go deep in our use of the platform, from Facebook stories to Facebook live. 
 Facebook is far more flexible in the types of posts that we should be posting, as our primary reach for Facebook posts should be Attenders who are already following us. 
 However as we build out our lead magnets, we want to work to target Non-Attenders through Facebook Ads.
+Parenting/Marriage/Finances
+
+* Facebook Live from Bart (Three times per week)
+* Quote posts
+* Videos (sermon videos, worship, content)
 
 #### Other Platforms
 At this stage our primary focus should be building up our presence on Facebook and Instagram. We are far more likely to achieve a higher ROI if we go deep on those two instead of going wide and trying to hit every single platform.
 As we build a solid strategy and schedule, we will look to expand to existing and up-and-coming platforms.
 
 ### Email
+Email is the secret sauce of our communication strategy. Email manages to communicate directly with people right where they are. What we want to harness is automated email segmentation and processes to follow up with people based on interest and audience.
+
+#### Non-Attender
+One of our big goals is to reach Non-Attenders and work to convert them to a regular Attender. 
+- Lead magnets bring them in
+- Emails keep them
+- Consitency converts them
+
+#### Attender
+Emails will be perhaps most heavily used to reach our Attenders and will be vastly more complex in terms of segmentation and automated sequences. A few examples of sequences:
+* Things
+
+### In-Service
+In Service announcements are for attenders and should all point to flatland.church. Sharing should be flatlandchurch.com.
