@@ -123,3 +123,16 @@ Emails will be perhaps most heavily used to reach our Attenders and will be vast
 
 ### In-Service
 In Service announcements are for attenders and should all point to flatland.church. Sharing should be flatlandchurch.com.
+
+## Projects
+As with any digital project there are about a million opportunities and projects we could be pursuing and working on. However, ultimately our primary focus should be seeing people move to the center of God's kingdom. At a more granular level, all projects should be weighed from the perspective of does it help move an audience member to the next level. Anything else should be considered a nice-to-have for the time being until we are ready to advance further.
+
+### Top Priority
+| # | Project Name | Version | Justification | Timeline |
+|---|--------------|---------------|----|
+| 1 | flatlandchurch.com | v2 | Our current site, while good has minimal flexibility and scalibility long term. Version 2 will allow us greater flexibility in our page layouts and management long term with a better management tool attached to it. | 🕑  September |
+| 2 | Giving & my.flatland.church | v1 | We want to decrease the amount of friction that it requires to give at Flatland. One of the best ways to do that is to bring Giving to the main flatlandchurch.com site. With that however we will need to launch a piece for people to manage their cards and recurring giving. This will be managed through my.flatland.church/giving. | 🕑  September |
+| 3 | Coaching Portal | v1 | We want coaches to be able to easily manage the people they are coaching. Additionally we want to make the process of onboarding people being coached as frictionless as possible. | 🕑  September |
+| 4 | Native App | v1 | We want to tailor the app experience for our current attenders with the goal of turning them into volunteers. The app will include a news feed (think bulletin meets facebook), sermon videos, volunteer postings, giving, and small profile management pieces. Currently our Subsplash contract costs us $1500/year. *As an important note:* Apple has recently made changes to their acceptance criteria for apps to make it into the app store. One of the biggest pieces of this is that apps that look similar by the same developer will often get dinged. We should move quickly to get off of Subsplash as this change will likely affect them and the bottom line.  | 🕑  October |
+| 5 | Email Marketing Strategy | | We want to be far more strategic in the way that we reach people via their inboxes. It is important as we increase velocity that we make this a high priority to have regular consistent content coming to people's inboxes, as well as automated sequences to move people to the next level | 🕑  December |
+| 6 | Red/Blue Bar | | Currently we have no way to update our congregation in the event of a time change or an emergency. With Red/Blue Bar we will introduct the ability to place a bar (red for emergency, blue for time change) at the top of every page on the main flatlandchurch.com site. Red/Blue bar will also have the option to alert the native app should we desire. | 🕑  November |
