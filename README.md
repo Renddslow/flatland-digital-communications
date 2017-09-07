@@ -46,4 +46,52 @@ Primary outreach for Attenders is through in-service content, organic social med
 A Volunteer is someone who attends Flatland regularly, is involved in at least one ministry, and is giving regularly. Our primary goal for a volunteer is that they are maintaining their "volunteer" status. This means that they will receive infrequent direct outreach from digital communications as we expect they will already be receiving regular updates from their ministry team leaders.
 Most outreach will be in the form of email reminders to hit the yearly goals for an attender and volunteer.
 
+## Channels
+One of the most challenging pieces of digital communication in 2017 and beyond is the ever shifting landscape of platforms and communication channels. We as a team want to be sure we are pushing the limits of emerging technology while also going deep in the platforms we are already on. 
+Each channel in our product family should be used intentionally and predicatably to maintain brand identity and voice across each platform.
 
+### Web
+Web is a three-tiered platform which reached all three of our audiences including staff. As such we want to strategically divide our efforts across web to maintain scope for each audience. 
+
+#### Non-Attenders
+Non-Attenders should consistently be routed to flatlandchurch.com as their primary interaction with us on the web channel. All lead magnets and ad landings should be flatlandchurch.com subresources, for instance all lead magnets will look like https://flatlandchurch.com/l/doubt. This creates a consistent expectation for Non-Attenders so that they are always driven toward flatlandchurch.com/visit or flatlandchurch.com/watch.
+
+#### Attenders
+Attenders should be pushed increasingly to our flatland.church family of web apps with a small handleful of call to action being Event realted (flatlandchurch.com/enjoy).
+Our goal here is to increase the LTV of the attender by making them account holders with more relative content being sent to them both consumable and informational. The purpose then of this segment of the platform is to better tailor their experience and understand their interests, data, and goals. The expectation being the more we have them invested in the platform, the easier it is to start convincing them to move from being an Attender to a Volunteer.
+
+#### Volunteers
+Volunteers should nearly 100% of the time be routed to our flatland.church family of web apps (or the native applications). While volunteers are likely to engage with our more consumable content, the purpose of the web platform for them is more maintenance level, such as updating giving information, tracking coaching stats, and following up with invitations (see [Projects](#tools).
+
+### App
+The app platform will primarily target an Attender, with some additional value provided to a Volunteer, especially in the `me` tab which will primarily be a native version of my.flatland.church.
+The goal of the app is to encourage Attenders to become active Volunteers at Flatland Church. The key focuses are engagement, giving, and volunteering. The hope is that as they engage with the app they are inspired to participate more than consume.
+A large segment of communication with Attenders will be done through the app, and as such all push notifications and updates should be made with the Attender audience in mind.
+
+### Social Media
+Social media is one of the easiest platforms to achieve mass organic reach for no cost coupled with the ability to atain a high ROI on paid posts/advertisements. 
+Social media should be targeted primarily at Non-Attenders and Attenders. Equally as important as reaching the correct audience on Social Media is maintaining a consistent brand identity across the platforms.
+
+#### Instagram
+A heavy focus of our content driven digital communication should be done on Instagram. All posts should be either photos, photos with graphics, or motion graphic videos.
+A few examples of people doing it great:
+* [Brady Shearer of ProChurchTools](https://www.instagram.com/bradyshearer/?hl=en)
+* [Elevation Youth](https://www.instagram.com/elevationyth/?hl=en)
+* [Life.Church](https://www.instagram.com/life.church/?hl=en)
+* [Elevation Church](https://www.instagram.com/elevationchurch/?hl=en)
+* [North Point Community Church](https://www.instagram.com/northpointcommunitychurch/?hl=en)
+* [Bethel](https://www.instagram.com/bethel/?hl=en)
+
+Instagram posts should be aspirational (people enjoying life groups, baptisms, testimonies) or inspirational (worship, bible verses, salvation reports) with informational posts being classified less. The primary justification is that Instagram is a vastly more intimate experience. People engage on a personal level. The goal is that Non-Attenders especially feel that they know us better through their experience scrolling through our feed. 
+Bigger announcements should be weighed before posting, and if well targeted toward Non-Attenders should be Sponsored posts.
+
+#### Facebook
+Facebook is an amazing platform to engage with large groups of people at a time. As the platform expands, there are opportunities to go deep in our use of the platform, from Facebook stories to Facebook live. 
+Facebook is far more flexible in the types of posts that we should be posting, as our primary reach for Facebook posts should be Attenders who are already following us. 
+However as we build out our lead magnets, we want to work to target Non-Attenders through Facebook Ads.
+
+#### Other Platforms
+At this stage our primary focus should be building up our presence on Facebook and Instagram. We are far more likely to achieve a higher ROI if we go deep on those two instead of going wide and trying to hit every single platform.
+As we build a solid strategy and schedule, we will look to expand to existing and up-and-coming platforms.
+
+### Email
