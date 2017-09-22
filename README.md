@@ -18,13 +18,15 @@
 	* [Processes](#processes)
 	* [Tools](#tools)
 	* [One Offs](#one-offs)
-* [Documentation](#documentation)
-	* [Guidelines](#guidelines)
-	* [Policies](#policies)
-	* [Press Kits](#press-kits)
+* Documentation (Coming Soon)
+	* Guidelines
+	* Policies
+	* Press Kits
 
 ## Introduction
-Lorem ipsum
+Church Communications is an ever growing, rapidly changing landscape. As a church we are seeking to move people to the center of God's Kingdom. As a department, we want to work hard to seize the 167 hours between a Sunday service to help people both in our church and the surrounding community do just that.
+The following communication strategy defines our core audiences, our goals with each digital communication channel, as well as upcoming projects and links to relevant documentation.
+We will regularly work to refine and update this document.
 
 ## Our Audience
 At Flatland Church our biggest audience is friends and family members who are disillusioned by church and religion.
@@ -92,15 +94,15 @@ Post types:
 * Fun Question Posts (Once a week - this should be a photo of someone in our church)
 * Volunteer Spotlight (Once a week - Take a picture every single week and tell the volunteer's story)
 * New Music/Staff Mixtape (Once a week - New songs we'll be singing, or staff member's playlist)
-* Baptism/Testimony (One a series Day after Oasis)
+* Baptism/Testimony (Once a week when image is available)
 
 #### Facebook
 Facebook is an amazing platform to engage with large groups of people at a time. As the platform expands, there are opportunities to go deep in our use of the platform, from Facebook stories to Facebook live. 
 Facebook is far more flexible in the types of posts that we should be posting, as our primary reach for Facebook posts should be Attenders who are already following us. 
 However as we build out our lead magnets, we want to work to target Non-Attenders through Facebook Ads.
-Parenting/Marriage/Finances
+The church is uniquely equipped to provide advice and coaching in areas of parenting, marriage, and finances. Content that we provide should fall into one of those 3 categories.
 
-* Facebook Live from Bart (Three times per week)
+* Facebook Live from Bart (Three times per week, post sermon, marriage monday, family friday)
 * Quote posts
 * Videos (sermon videos, worship, content)
 
@@ -117,10 +119,6 @@ One of our big goals is to reach Non-Attenders and work to convert them to a reg
 - Emails keep them
 - Consitency converts them
 
-#### Attender
-Emails will be perhaps most heavily used to reach our Attenders and will be vastly more complex in terms of segmentation and automated sequences. A few examples of sequences:
-* Things
-
 ### In-Service
 In Service announcements are for attenders and should all point to flatland.church. Sharing should be flatlandchurch.com.
 
@@ -136,3 +134,16 @@ As with any digital project there are about a million opportunities and projects
 | 4 | Native App | v1 | We want to tailor the app experience for our current attenders with the goal of turning them into volunteers. The app will include a news feed (think bulletin meets facebook), sermon videos, volunteer postings, giving, and small profile management pieces. Currently our Subsplash contract costs us $1500/year. *As an important note:* Apple has recently made changes to their acceptance criteria for apps to make it into the app store. One of the biggest pieces of this is that apps that look similar by the same developer will often get dinged. We should move quickly to get off of Subsplash as this change will likely affect them and the bottom line.  | October 22 |
 | 5 | Email Marketing Strategy | | We want to be far more strategic in the way that we reach people via their inboxes. It is important as we increase velocity that we make this a high priority to have regular consistent content coming to people's inboxes, as well as automated sequences to move people to the next level | December 17 |
 | 6 | Red/Blue Bar | | Currently we have no way to update our congregation in the event of a time change or an emergency. With Red/Blue Bar we will introduct the ability to place a bar (red for emergency, blue for time change) at the top of every page on the main flatlandchurch.com site. Red/Blue bar will also have the option to alert the native app should we desire. | 🕑  November |
+
+### Processes
+| Title | Due | Priority |
+| ----- | --- | -------- |
+| Social Media Strategy | October 31 | !!! |
+| Crisis Communication Plan | Jan 2018 | !! |
+| Information Delivery Strategy | Jan 2018 | ! |
+
+### Tools
+There are no tools in development right now.
+
+### One Offs
+There are no one-off projects defined right now.
