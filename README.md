@@ -59,7 +59,7 @@ Web is a three-tiered platform which reaches all three of our audiences includin
 Non-Attenders should consistently be routed to flatlandchurch.com as their primary interaction with us on the web channel. All lead magnets and ad landings should be flatlandchurch.com subresources, for instance all lead magnets will look like https://flatlandchurch.com/l/doubt. This creates a consistent expectation for Non-Attenders so that they are always driven toward flatlandchurch.com/visit or flatlandchurch.com/watch.
 
 #### Attenders
-Attenders should be pushed increasingly to our flatland.church family of web apps with a small handleful of call to action being Event realted (flatlandchurch.com/enjoy).
+Attenders should be pushed increasingly to our flatland.church family of web apps with a small handleful of call to action being Event related (flatlandchurch.com/enjoy).
 Our goal here is to increase the LTV of the attender by making them account holders with more relative content being sent to them both consumable and informational. The purpose then of this segment of the platform is to better tailor their experience and understand their interests, data, and goals. The expectation being the more we have them invested in the platform, the easier it is to start convincing them to move from being an Attender to a Volunteer.
 
 #### Volunteers
