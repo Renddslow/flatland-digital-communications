@@ -19,7 +19,7 @@
 	* [Tools](#tools)
 	* [One Offs](#one-offs)
 * Documentation
-	* [Tech Stack](https://github.com/Renddslow/flatland-digital-communications/)
+	* [Tech Stack](https://github.com/Renddslow/flatland-digital-communications/blob/master/documentation/tech-stack.md)
 	* Guidelines
 	* Policies
 	* Press Kits
