@@ -21,7 +21,12 @@
 * Documentation
 	* [Tech Stack](https://github.com/Renddslow/flatland-digital-communications/blob/master/documentation/tech-stack.md)
 	* Guidelines
+		* Brand Guidelines (needs development)
+		* [Digital Assets](https://github.com/Renddsow/flatland-digital-communication/blob/master/documentation/guidelines/digital-assets.md)
 	* Policies
+		* Photos of Kids (needs development)
+		* Crisis Communication Policy (needs development)
+		* Communication Continuity Plan (needs development)
 	* Press Kits
 
 ## Introduction
