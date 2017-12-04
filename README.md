@@ -142,12 +142,13 @@ As with any digital project there are about a million opportunities and projects
 ### Processes
 | Title | Due | Priority |
 | ----- | --- | -------- |
-| Social Media Strategy | October 31 | !!! |
 | Crisis Communication Plan | Jan 2018 | !! |
 | Information Delivery Strategy | Jan 2018 | ! |
 
 ### Tools
-There are no tools in development right now.
+| # | Project Name | Description |
+| --- | --- | --- |
+| 1 | admin.flatlandchurch.com | A full CMS for adding sermons, events, managing classes and groups, sending notifications, adding ministry positions, and posting blog posts. |
 
 ### One Offs
 There are no one-off projects defined right now.
