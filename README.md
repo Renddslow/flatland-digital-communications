@@ -134,9 +134,11 @@ As with any digital project there are about a million opportunities and projects
 ### Top Priority
 | # | Project Name | Version | Justification | Timeline 🕑  |
 | --- | -------------- | --------------- | ---- | --- |
+| 0 | Easter & Mother's Day Marketing | v1 | We want to market directly to people, specifically mother's and families, to encourage them to visit Flatland over Easter and Mother's Day. This is a multi-team initiative that includes static landing pages, an email campaign, and PPC marketing. | March 2017 |
 | 1 | Giving & my.flatland.church | v1 | We want to decrease the amount of friction that it requires to give at Flatland. One of the best ways to do that is to bring Giving to the main flatlandchurch.com site. With that however we will need to launch a piece for people to manage their cards and recurring giving. This will be managed through my.flatland.church/giving. | November |
-| 2 | Email Marketing Strategy | | We want to be far more strategic in the way that we reach people via their inboxes. It is important as we increase velocity that we make this a high priority to have regular consistent content coming to people's inboxes, as well as automated sequences to move people to the next level | December 17 |
-| 3 | Red/Blue Bar | | Currently we have no way to update our congregation in the event of a time change or an emergency. With Red/Blue Bar we will introduct the ability to place a bar (red for emergency, blue for time change) at the top of every page on the main flatlandchurch.com site. Red/Blue bar will also have the option to alert the native app should we desire. | 🕑  November |
+| 2 | Missions | v1 | We want to work to boost our global missions department and provide relevant information to people looking to get involved directly or financially with missions. | March 2018 |
+| 3 | Navigation Project | v2 | The navigation of the site needs some level of overhaul the Homes of Influence initiative needing more light on the site. We also want to account for missions. All this should be done while not heavily impacting our current IA or SEO. | March 2018 |
+| 4 | Email Marketing Strategy | | We want to be far more strategic in the way that we reach people via their inboxes. It is important as we increase velocity that we make this a high priority to have regular consistent content coming to people's inboxes, as well as automated sequences to move people to the next level | December 17 |
 
 ### Processes
 | Title | Due | Priority |
@@ -147,7 +149,7 @@ As with any digital project there are about a million opportunities and projects
 ### Tools
 | # | Project Name | Description |
 | --- | --- | --- |
-| 1 | admin.flatlandchurch.com | A full CMS for adding sermons, events, managing classes and groups, sending notifications, adding ministry positions, and posting blog posts. |
+| 0 | Salesforce | Setting up a demo application with Salesforce to act as Flatland's ChMS. |
 
 ### One Offs
 There are no one-off projects defined right now.
